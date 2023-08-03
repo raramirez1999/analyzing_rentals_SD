@@ -32,3 +32,5 @@ The primary objectives of this project are as follows:
 3. **Exploratory Data Analysis**: The python file `rental_data.py` contains some of the EDA process. Descriptive statistics and data visualizations using Excel are used to analyze the distribution of rental prices, explore correlations between features, and identify potential patterns and outliers.
 
 4. **Rental Candidate Selection**: Based on the insights gained from EDA, the project narrows down rental candidates that are likely to meet the preferences and needs of the 5 professionals.
+
+![Dashboard](dashboard_rentals_project.jpg)
