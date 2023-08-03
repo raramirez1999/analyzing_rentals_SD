@@ -9,7 +9,8 @@ A colleague and her 4 roommates are seeking a suitable rental property in San Di
 - [map_search_area.jpg](#map_search_area)
 - [rental_data.py](#rental_data_webscraper)
 - [rentals_scraped.csv](#rentals_scraped_uncleaned)
-- 
+- [dashboard_rentals_project.jpg](#rental_properties_dashboard)
+- [retnals_scraped_excel_](#excel_workbook_data)
 
 ## Project Goals
 
